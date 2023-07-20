@@ -1,3 +1,12 @@
+About me
+_________
+
+Names: MUSOSIYARE Thacien
+Reg Number: 20RP00363
+Email:musosiyarethacien10@gmail.com
+Class: Level 7 IT
+
+
 Movie Recommendation System using The Movie Database (TMDb) API
 ________________________________________________________________
 
