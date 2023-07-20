@@ -34,7 +34,7 @@ const truncateString = (str, num) => {
                         <button
                             className='border ml-4 text-white hover:bg-red-600 hover:border-red-600  border-gray-300 py-2 px-5 rounded'>Watch later</button>
                     </div>
-                    <p className='text-gray-500 text-sm'>Reased: {movie?.release_date}</p>
+                    <p className='text-orange-500 text-1xl'>This Movie Reased At : {movie?.release_date}</p>
                     <p className='w-full md:max-w-[70%] lg:max-w-[50%] xl:max-w-[35%] text-gray-200'>{
                         truncateString(movie?.overview, 200)
                     }</p>

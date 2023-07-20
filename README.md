@@ -15,6 +15,13 @@ _______________
 
 This is a Movie Recommendation System that utilizes The Movie Database (TMDb) API to fetch movie data and provide personalized movie recommendations to users. The system leverages the vast collection of movies available on TMDb and offers suggestions based on user preferences and movie ratings.
 
+<h3>
+. this API provide also automatic movie display ate the top of the page
+  which automatically changes accordingly 
+. it also provide the date that movie was released on and the name of that movie
+  for that can help you to find it easy
+  </h3>
+
 Technologies Used
 ___________________
 
