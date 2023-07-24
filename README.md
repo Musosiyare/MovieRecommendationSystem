@@ -10,6 +10,11 @@ Class: Level 7 IT
 Movie Recommendation System using The Movie Database (TMDb) API
 ________________________________________________________________
 
+<h2>Recommendation/Warning</h2>
+<h4>Because the movie are displayed using API to run this project you must be having internet in order
+to view the movie otherwise movie will not be displayed !!!!
+ </h4>
+
 Introduction
 _______________
 
