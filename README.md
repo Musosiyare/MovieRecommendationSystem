@@ -18,7 +18,7 @@ This is a Movie Recommendation System that utilizes The Movie Database (TMDb) AP
 <h4>
 . this API provide also automatic movie display ate the top of the page
   which automatically changes accordingly 
-. it also provide the date that movie was released on and the name of that movie
+. it also provide the date that movie was released on and the name of that movie, and the small details about that movie
   for that can help you to find it easy
   </h4>
 
@@ -74,10 +74,3 @@ Contributing
 _______________
 
 Contributions to this Movie Recommendation System are welcome! You can fork the repository and create a pull request with your changes. Feel free to add new features, improve existing functionality, or fix any issues you encounter.
-
-License
-___________
-
-This project is licensed under the MIT License. Feel free to use and modify the code as per the license terms.
-
-Enjoy exploring and discovering new movies with our Movie Recommendation System powered by TMDb API! Happy movie watching! 🎬🍿
